@@ -1070,7 +1070,7 @@ input:checked + .toggle-bg {
 }
 
 .mr-auto {
-  margin-right: auto;
+  /* margin-right: auto; */
 }
 
 .mb-4 {
@@ -1395,7 +1395,7 @@ input:checked + .toggle-bg {
 }
 
 .place-self-center {
-  place-self: center;
+  /* place-self: center; */
 }
 
 .self-center {
